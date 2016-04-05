@@ -4,3 +4,5 @@ errors or success (based on the HTTP return code), what files were visited more 
 
 Also lists the top user agents (and their %'s) and malicious requests.
 
+Link: http://ec2-52-38-152-251.us-west-2.compute.amazonaws.com/log-parser/
+Link to log file: http://ec2-52-38-152-251.us-west-2.compute.amazonaws.com/log-parser/apache.log
